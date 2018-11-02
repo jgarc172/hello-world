@@ -1,2 +1,3 @@
 # hello-world
-practice repository
+
+This is a project used for practicing the feautures of Git and GitHub.
